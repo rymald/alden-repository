@@ -8,11 +8,11 @@
 			<h1>Rylee Alden | rmalden@missouri.edu </h1>
 			<p>"I'd be taller if I wasn't so short." </p>
 
-			<a href="mailto:rmalden@missouri.edu?subject=Email&nbsp;from&nbsp;Rylee">
-			
-				<img src="img/rmalden.jpg" alt="A woman in a black top stands in front of green trees.">
-			</a>
+			<h2> My First Website </h2>
 
+			<a href="mailto:rmalden@missouri.edu?subject=Email&nbsp;from&nbsp;Rylee">
+				<img src="img/rmalden.jepg" alt="A woman in a black top stands in front of green trees.">
+			</a>
 			<p>Journalism Orgs to check out</p>
 			<ul>
 				<li><a href="https://theappeal.org/">The Appeal</a></li>
@@ -22,24 +22,18 @@
 
 			</ul>
 
-			<p>
-				<span class="material-symbols-outlined">
-					captive_portal
-				</span>
-			</p>
-			<p></p>
-			<p>this is the index file - the home for all of your projects</p>
+			
+			
+			
 		</section>
 
-		<section class="monotype">
+		<section>
 
 			this is the index file - the home for all of your projects
 
 			Class 9:30am every Thursday & Tuesday
 
 			Requirements for first page assignment:
-			your name and contact information (email address is enough, but feel free to add social media) 
-			a joke. Yes, a joke. Keep it clean. 
 			an image of yourself that is a link to your email address (or a fake email address of the right format examples@thing.com/org etc )
 			a title for your page (must not be an untitled document) 
 			An unordered list (this could be something like links to the blog, your assignments, journalism sites, etc.) 
