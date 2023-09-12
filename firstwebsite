@@ -1,0 +1,104 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <title>4502/7502 class example</title>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="author" content="Will Lager">
+
+
+    <meta property="og:image" content="img/">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:title" content=""> 
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta name="twitter:creator" content="@iniwil">
+    <meta property="twitter:image" content="">
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+    
+
+
+
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Inter&family=Nunito+Sans&Crimson+Pro&family=IBM+Plex+Serif&family=Roboto+Slab&family=Poppins&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <style>
+		.material-symbols-outlined {
+		  font-variation-settings:
+		  'FILL' 0,
+		  'wght' 400,
+		  'GRAD' 0,
+		  'opsz' 24
+		}
+
+		.monotype {
+			font-family: 'IBM+Plex', monospace;
+		}
+	</style>
+
+  </head>
+
+	<main>
+		<nav>
+			<a href="list.html">List page</a>
+			<a href="https://wlager.com">wlager.com</a>
+		</nav>
+
+		<section>
+
+			<h1>Will Lager | will.lager@rjionline.org </h1>
+			<p>"I'm afraid for the calendar. Its days are numbered." <a href="https://www.countryliving.com/life/a27452412/best-dad-jokes/">from >></a></p>
+			<p></p>
+
+			<a href="mailto:will.lager@rjionline.org?subject=Email&nbsp;from&nbsp;Will">
+			
+				<img src="img/will_lager.png" alt="A man in a parka wearing glasses stands on a snowy sidewalk">
+			</a>
+
+			<p>Journalism Orgs to check out</p>
+			<ul>
+				<li><a href="https://theappeal.org/">The Appeal</a></li>
+				<li><a href="https://kansascitydefender.com/">KC Defender</a></li>
+				<li><a href="https://sahanjournal.com/">Sahan Journal</a></li>
+				<li><a href="https://restofworld.org/">Rest of World</a></li>
+
+			</ul>
+
+			<p>
+				<span class="material-symbols-outlined">
+					captive_portal
+				</span>
+			</p>
+			<p></p>
+			<p>this is the index file - the home for all of your projects</p>
+		</section>
+
+		<section class="monotype">
+
+			this is the index file - the home for all of your projects
+
+			Class 9:30am every Thursday & Tuesday
+
+			Requirements for first page assignment:
+			your name and contact information (email address is enough, but feel free to add social media) 
+			a joke. Yes, a joke. Keep it clean. 
+			an image of yourself that is a link to your email address (or a fake email address of the right format examples@thing.com/org etc )
+			a title for your page (must not be an untitled document) 
+			An unordered list (this could be something like links to the blog, your assignments, journalism sites, etc.) 
+			Navigation links to two other pages — one within your site and one outside your site (the other page within your site can be blank)
+			must be in HTML5
+
+		</section>
+
+
+	</main>
+
+</html>
