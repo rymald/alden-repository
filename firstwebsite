@@ -1,62 +1,12 @@
 <!doctype html>
-<html class="no-js" lang="en" dir="ltr">
-  <head>
-    <title>4502/7502 class example</title>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <meta name="author" content="Will Lager">
-
-
-    <meta property="og:image" content="img/">
-    <meta property="og:image:width" content="600">
-    <meta property="og:image:height" content="600">
-    <meta property="og:title" content=""> 
-    <meta property="og:description" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta name="twitter:creator" content="@iniwil">
-    <meta property="twitter:image" content="">
-    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
-    
-
-
-
-    <!-- <link rel="stylesheet" href="css/style.css"> -->
-    
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Inter&family=Nunito+Sans&Crimson+Pro&family=IBM+Plex+Serif&family=Roboto+Slab&family=Poppins&display=swap" rel="stylesheet">
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-
-    <style>
-		.material-symbols-outlined {
-		  font-variation-settings:
-		  'FILL' 0,
-		  'wght' 400,
-		  'GRAD' 0,
-		  'opsz' 24
-		}
-
-		.monotype {
-			font-family: 'IBM+Plex', monospace;
-		}
-	</style>
 
   </head>
 
 	<main>
-		<nav>
-			<a href="list.html">List page</a>
-			<a href="https://wlager.com">wlager.com</a>
-		</nav>
-
 		<section>
 
-			<h1>Will Lager | will.lager@rjionline.org </h1>
-			<p>"I'm afraid for the calendar. Its days are numbered." <a href="https://www.countryliving.com/life/a27452412/best-dad-jokes/">from >></a></p>
-			<p></p>
+			<h1>Rylee Alden | rmalden@missouri.edu </h1>
+			<p>"I'd be taller if I wasn't so short." </p>
 
 			<a href="mailto:will.lager@rjionline.org?subject=Email&nbsp;from&nbsp;Will">
 			
