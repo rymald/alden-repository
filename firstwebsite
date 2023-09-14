@@ -1,19 +1,29 @@
-<!<!DOCTYPE html>
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+	<title>My First Website!</title>
+	  <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="author" content="Rylee Alden">
 
-  </head>
+ </head>
+<body>
 
+		<nav>
+			<a href="list.html">List page</a>
+			<a href="https://wlager.com">wlager.com</a>
+		</nav>
 	<main>
 		<section>
 
 			<h1>Rylee Alden | rmalden@missouri.edu </h1>
-			<p>"I'd be taller if I wasn't so short." </p>
-
-			<h2> My First Website! </h2>
+			<p>"I'd be taller if I wasn't so short."</p>
 
 			<a href="mailto:rmalden@missouri.edu?subject=Email&nbsp;to&nbsp;Rylee">
-				<img src="rmalden.jpeg" alt="A woman in a black top stands in front of green trees.">
-			<img class="image" src="rmalden.jpeg" alt="A woman in a black top stands in front of green trees.">
+			
+				<img src="rmalden.png" alt="A woman in a black top stands in front of green trees.">
 			</a>
+
 			<p> Programs I've been involved with at Mizzou</p>
 			<ul>
 				<li><a href="https://cafnr.missouri.edu/tag/forestry-club/">MU Forestry Club</a></li>
@@ -38,7 +48,3 @@
 
 		</section>
 
-
-	</main>
-
-</html>
