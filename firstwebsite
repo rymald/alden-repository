@@ -1,4 +1,4 @@
-<!doctype html>
+<!<!DOCTYPE html>
 
   </head>
 
@@ -12,6 +12,7 @@
 
 			<a href="mailto:rmalden@missouri.edu?subject=Email&nbsp;to&nbsp;Rylee">
 				<img src="rmalden.jpeg" alt="A woman in a black top stands in front of green trees.">
+			<img class="image" src="rmalden.jpeg" alt="A woman in a black top stands in front of green trees.">
 			</a>
 			<p> Programs I've been involved with at Mizzou</p>
 			<ul>
@@ -29,14 +30,9 @@
 
 		<section>
 
-			this is the index file - the home for all of your projects
-
-			Class 9:30am every Thursday & Tuesday
-
+			
 			Requirements for first page assignment:
-			an image of yourself that is a link to your email address (or a fake email address of the right format examples@thing.com/org etc )
-			a title for your page (must not be an untitled document) 
-			An unordered list (this could be something like links to the blog, your assignments, journalism sites, etc.) 
+			an image of yourself that is a link to your email address 
 			Navigation links to two other pages — one within your site and one outside your site (the other page within your site can be blank)
 			must be in HTML5
 
