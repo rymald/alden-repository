@@ -1,4 +1,5 @@
 <!doctype html>
+
 <html class="no-js" lang="en" dir="ltr">
   <head>
 	<title>My First Website!</title>
@@ -12,7 +13,7 @@
 <body>
 
 		<nav>
-			<a href="list.html">List page</a>
+			<a href="list.html">Empty page</a>
 			<a href="https://discoverycenter.net/about-discovery-center/staff-contact-list/">NLDC Staff</a>
 		</nav>
 	<main>
@@ -23,7 +24,7 @@
 
 			<a href="mailto:rmalden@missouri.edu?subject=Email&nbsp;from&nbsp;Rylee">
 			
-				<img src="rmalden.png" width=200px height=220px alt="A woman in a black top stands in front of green trees.">
+				<img src="rmalden.png" alt="A woman in a black top stands in front of green trees." width="200" height="250">
 			</a>
 
 			<p> Programs I've been involved with at Mizzou:</p>
